@@ -1,2 +1,2 @@
 # project_one
-Repository for collaboration on project_one by members of the group [group name here]
+Repository for collaboration on Project 1 by members of the group 'insert_team_name'. Due NOVEMBER 2ND.
